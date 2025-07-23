@@ -1,7 +1,0 @@
-# Définition
-
-La **luminance** est une grandeur correspondant à la sensation visuelle de [luminosité](https://fr.wikipedia.org/wiki/Luminosit%C3%A9 "Luminosité") d'une [surface](https://fr.wikipedia.org/wiki/Surface_(physique) "Surface (physique)").
-
-La **luminance** est la [puissance](https://fr.wikipedia.org/wiki/Puissance_(physique) "Puissance (physique)") de la [lumière visible](https://fr.wikipedia.org/wiki/Lumi%C3%A8re_visible "Lumière visible") passant ou étant émise en un élément de surface dans une direction donnée, par unité de surface et par [unité d'angle solide](https://fr.wikipedia.org/wiki/Unit%C3%A9_d%27angle_solide "Unité d'angle solide"). Quand la visibilité ou non du [rayonnement électromagnétique](https://fr.wikipedia.org/wiki/Rayonnement_%C3%A9lectromagn%C3%A9tique "Rayonnement électromagnétique") importe peu, on parle de [luminance énergétique](https://fr.wikipedia.org/wiki/Luminance_%C3%A9nerg%C3%A9tique "Luminance énergétique") ou radiance. En [photométrie](https://fr.wikipedia.org/wiki/Photom%C3%A9trie_(optique) "Photométrie (optique)"), on applique au rayonnement une pondération basée sur la sensibilité de l'œil humain aux différentes fréquences.
-
-![[Capture d’écran 2025-01-29 à 17.33.29.png]]
