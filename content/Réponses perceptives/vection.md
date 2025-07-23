@@ -1,0 +1,1 @@
+La vection est la sensation erronée de bouger, alors qu'on est immobile, en voyant autre chose en mouvement.

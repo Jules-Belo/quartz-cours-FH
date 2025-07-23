@@ -1,0 +1,1 @@
+-  [Article intéréssant](https://www.researchgate.net/publication/248702993_PERCEPTION_VISUELLE_DE_L'ESPACE_EGOCENTRE_Contribution_differenciee_des_informations_sensorielles_a_la_localisation_et_l'orientation_du_plan_median_corporel)
