@@ -3,7 +3,6 @@ title: "Bienvenue sur Quartz Cours FH"
 description: "Un site pour explorer les cours en Facteurs Humains et STAPS"
 ---
 ![Logo](/static/logo.png)
-
 # 👋 Bienvenue !
 
 Ce site rassemble mes notes de cours, fiches de révision et lectures dans le cadre du Master IEAP.
