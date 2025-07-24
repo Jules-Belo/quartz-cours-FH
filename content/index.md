@@ -1,12 +1,12 @@
-<div style="text-align: center; margin-top: 20px;">
-  <img src="/static/logo.png" alt="Logo du site" width="200" />
-</div>
 
 ---
 title: "Bienvenue sur Quartz Cours FH"
 description: "Un site pour explorer les cours en Facteurs Humains et STAPS"
 ---
-![Logo](/static/logo.png)
+<div style="text-align: center; margin-top: 20px;">
+  <img src="/static/logo.png" alt="Logo du site" width="100" />
+</div>
+
 # 👋 Bienvenue !
 
 Ce site rassemble mes notes de cours, fiches de révision et lectures dans le cadre du Master IEAP.
