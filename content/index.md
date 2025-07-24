@@ -16,6 +16,7 @@ Ce site rassemble mes notes de cours, fiches de révision et lectures dans le ca
 ## ✨ Objectif
 
 Proposer une navigation claire et agréable autour des contenus de formation en facteurs humains.
+![]<img width="433" height="577" alt="belo la pose" src="https://github.com/user-attachments/assets/2b79655c-0cf8-479d-b318-d82604ed383e" />
 
 ---
 
