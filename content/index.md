@@ -2,7 +2,7 @@
 title: "Bienvenue sur Quartz Cours FH"
 description: "Un site pour explorer les cours en Facteurs Humains et STAPS"
 ---
-![Logo](/logo.png)
+![Logo](/static/logo.png)
 
 # 👋 Bienvenue !
 
